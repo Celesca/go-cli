@@ -26,3 +26,11 @@ Cobra is fastest Static Site Generator (SSG) and a lot more features such as
 2. Powerful flags (POSIX) - Particular command (Options and Description)
 3. Customize Help
 4. Shell Auto Completion (You can tab to generate auto completion)
+
+## Go Data Structure (Why we need to learn Data Structure)
+1. Performance
+2. Memory usage
+3. Problem-solving
+4. Concurrency
+5. Code readability and maintainability
+
